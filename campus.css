@@ -1007,16 +1007,6 @@ body[data-campus="melbourne"] .rhythm-top h2 span {
   background: #3a3d35;
 }
 
-.campus-cta-star {
-  position: absolute;
-  right: 5%;
-  top: -62px;
-  color: rgba(137, 65, 42, 0.12);
-  font-size: 270px;
-  line-height: 1;
-  pointer-events: none;
-}
-
 .campus-pager {
   display: grid;
   grid-template-columns: 0.58fr 1.42fr;
