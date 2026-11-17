@@ -80,7 +80,7 @@ body{max-width:none}
 
 /* Official Laneway wordmark used across the redesigned pages. */
 .brand.brand-image{display:block;padding:0;line-height:0}
-.brand-image .brand-logo{display:block;width:166px;height:auto}
+.brand-image .brand-logo{display:block;width:166px;max-width:100%;height:auto;opacity:1;visibility:visible}
 .site-header .brand.brand-image{padding:0}
 .footer-top .brand.brand-image .brand-logo{width:170px}
 @media(max-width:850px){.site-header .brand-image .brand-logo{width:150px}}
