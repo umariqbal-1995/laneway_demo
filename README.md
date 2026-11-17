@@ -5,12 +5,13 @@ A local, responsive redesign of https://laneway.edu.au/ with original website ph
 ## Open
 Double-click `index.html`, or run `python3 -m http.server 5173` in this directory and visit http://localhost:5173.
 
-No installation or build step required. Files: index.html, styles.css, app.js, assets/.
+No installation or build step required. Files: index.html, styles.css, app.js, assets/, plus the two campus pages and their shared campus.css and campus.js files.
 
 ## Features
 - Responsive mobile navigation
 - 22 original qualifications with category filters, live search and accessible course dialogs
 - Campus photography, learning approach, international student guidance and FAQ accordions
+- Dedicated Sydney and Melbourne campus pages with location details, transport guidance and visit actions
 - Gentle image zoom, entrance transitions and scroll reveals; reduced-motion support
 - Keyboard focus states, skip link and semantic HTML
 
