@@ -22,3 +22,5 @@ Content and images sourced from Laneway's public website on 17 November 2026. Br
 Course tile backgrounds: category-specific photographs downloaded from Unsplash, with CSS blur and dark overlays.
 
 Hero carousel: four images, 6.5-second automatic playback, crossfade transitions, manual controls and pause/play. Automatic playback starts disabled for reduced-motion users. Additional collaboration and learning photographs are illustrative Unsplash images, not claimed to depict Laneway students.
+
+Official brand mark: `assets/laneway-education-logo.png`, sourced from Laneway Education's public website header.
